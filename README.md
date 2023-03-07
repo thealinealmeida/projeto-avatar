@@ -1,2 +1,2 @@
-# projeto-avatar
-Projeto sobre o filme avatar caminhos das aguas (css, html e JS)
+# Turma-Estrela_da_anima-o
+projeto Avatar
